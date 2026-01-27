@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 🤖 Casimir Sowinski — Robotics & Controls Engineer
+# Casimir Sowinski — Robotics & Controls Engineer
 
 **Portland, OR** · Open to hybrid collaboration in **Salem, OR (Agility Robotics proximity)**  
 **Email:** casimirsowinski@gmail.com · **GitHub:** github.com/casimirsowinski · **LinkedIn:** linkedin.com/in/casimirsowinski
@@ -26,9 +26,9 @@ Focused on building reliable autonomous systems — from mathematical model ➝ 
 
 ---
 
-## 🚀 Highlighted Robotics Projects
+## Highlighted Robotics Projects
 
-### 🦾 Tendon-Driven Robotic Hand & Wrist System
+### Tendon-Driven Robotic Hand & Wrist System
 **Human-inspired tendon mechanics • Multi-DOF coordination • Field-tested**
 
 - Designed multi-joint tendon-driven prosthetic hand and wrist
@@ -41,7 +41,7 @@ Focused on building reliable autonomous systems — from mathematical model ➝ 
 
 ---
 
-### 🛠️ Custom 5-Axis CNC + Automated Tool-Changer (Mach4)
+### Custom 5-Axis CNC + Automated Tool-Changer (Mach4)
 **Multi-axis control • Safe sequencing • Custom scripts**
 
 - Built custom 5-axis CNC machine from ground-up
@@ -54,7 +54,7 @@ Focused on building reliable autonomous systems — from mathematical model ➝ 
 
 ---
 
-### 🧠 ROS/Gazebo Whole-Body Control Simulation
+### ROS/Gazebo Whole-Body Control Simulation
 **Trajectory execution • stability analysis • sim-to-real**
 
 - Developed multi-joint robotic control sim in ROS/Gazebo
@@ -67,7 +67,7 @@ Focused on building reliable autonomous systems — from mathematical model ➝ 
 
 ---
 
-### 📡 Real-Time BLE Sensor Platform
+### Real-Time BLE Sensor Platform
 **Embedded sensing • low-latency streaming • edge validation**
 
 - Built BLE pressure sensor system with real-time alerts
@@ -79,7 +79,7 @@ Focused on building reliable autonomous systems — from mathematical model ➝ 
 
 ---
 
-## 🧠 Technical Focus
+## Technical Focus
 | Area | Skills |
 |--|--|
 Motion & Whole-Body Control | PID, trajectory generation, feedback tuning, real-world robustness |
@@ -90,7 +90,7 @@ Validation & HIL | Test frameworks, logging, failure mode testing |
 
 ---
 
-## 🎯 Engineering Principles
+## Engineering Principles
 
 - Simulation informs hardware — **hardware proves truth**
 - Safety + reliability are first-class features
@@ -100,10 +100,10 @@ Validation & HIL | Test frameworks, logging, failure mode testing |
 
 ---
 
-## 📬 Contact
+## Contact
 
 📧 **casimirsowinski@gmail.com**  
-🏙️ Based in Portland, OR — available onsite in Salem when needed  
+🏙️ Based in Portland, OR — available onsite when needed  
 
 *Focused on mobile manipulation, whole-body control, real-time robotics, and sim-to-real reliability.*
 

@@ -41,12 +41,33 @@ Focused on building reliable autonomous systems — from mathematical model ➝ 
 
 ---
 
-### Custom 5-Axis CNC + Automated Tool-Changer (Mach4)
+### Custom 4-Axis CNC + Automated Tool-Changer (Mach4)
 **Multi-axis control • Safe sequencing • Custom scripts**
 
-- Built custom 5-axis CNC machine from ground-up
+- Built custom 4-axis CNC machine from ground-up
 - Designed fully automated tool-changer mechanism
+- Built spindle water cooling system with temperature and power alarms and interlocks
+- Built automated dust collection system 
 - Wrote **custom Lua-based motion logic** for Mach4
+- Implemented homing, spindle/tool detection, safety interlocks, xBox controller control, etc.
+
+**Tech:** Mach4, Lua scripting, stepper control, kinematic calibration  
+**Media Ideas:** Tool-change GIF · mechanism CAD · Mach4 script snippets
+
+---
+
+### Custom 4-Axis C02 Laser Cutter/Engraver
+**Multi-axis control • Safe sequencing • Custom scripts**
+
+- Built custom 4-axis Laser cutter/engraver from ground-up
+- Designed and simulated in Fusion 360
+- Designed and produced custom circuit boards for control/safety
+- Kinematic calibration complete
+- Built custom water cooling system for laser tube
+- Built custom fume collection system
+- Fully enclosed laser shielding system
+- Can control many auxilliary loads/tools programmatically
+- Implemented fully calibrated camera system for material placement automation and remote monitoring
 - Implemented homing, spindle/tool detection, safety interlocks
 
 **Tech:** Mach4, Lua scripting, stepper control, kinematic calibration  

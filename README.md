@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **Email:** casimirsowinski@gmail.com
 
-**GitHub:** github.com/casimirsowinski
+**GitHub:** github.com/casimirsowinski/
 
 **LinkedIn:** linkedin.com/in/casimirsowinski
 

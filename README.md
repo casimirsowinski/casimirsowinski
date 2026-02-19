@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Casimir Sowinski — Robotics & Controls Engineer
 
-**Portland, OR** · Open to hybrid collaboration in **Salem, OR (Agility Robotics proximity)**  
+**Portland, OR**  
 **Email:** casimirsowinski@gmail.com · **GitHub:** github.com/casimirsowinski · **LinkedIn:** linkedin.com/in/casimirsowinski
 
 Robotics engineer specializing in **whole-body control, simulation, embedded systems, and real-world robotic platforms**.  

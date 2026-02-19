@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 # Casimir Sowinski — Robotics & Controls Engineer
 
 **Portland, OR**  
-**Email:** casimirsowinski@gmail.com · **GitHub:** github.com/casimirsowinski · **LinkedIn:** linkedin.com/in/casimirsowinski
+**Email:** casimirsowinski@gmail.com
+**GitHub:** github.com/casimirsowinski
+**LinkedIn:** linkedin.com/in/casimirsowinski
+**Website:** casimirsowinski.com
 
 Robotics engineer specializing in **whole-body control, simulation, embedded systems, and real-world robotic platforms**.  
 Focused on building reliable autonomous systems — from mathematical model ➝ control algorithm ➝ simulation ➝ hardware ➝ field deployment.
